@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Rashid.
+- 👋 Hi, I’m Mohammed Rashid
 - 👀 I’m interested in lot of things
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on diff projects on Data science
