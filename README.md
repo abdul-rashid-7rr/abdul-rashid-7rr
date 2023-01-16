@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on diff projects on Data science
 - 📫 How to reach me ...https://www.linkedin.com/in/abdul-rashid-7rr/
-- 
 
 <!---
 abdul-rashid-7rr/abdul-rashid-7rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
