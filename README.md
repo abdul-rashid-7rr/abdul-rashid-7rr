@@ -1,4 +1,5 @@
-https://github.com/abdul-rashid-7rr/abdul-rashid-7rr/blob/main/computer.gif- 👋 Hi, I’m Mohammed Rashid
+https://github.com/abdul-rashid-7rr/abdul-rashid-7rr/blob/main/computer.gif- 
+- 👋 Hi, I’m Mohammed Rashid
 - 👀 I’m interested in lot of things
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on diff projects on Data science
