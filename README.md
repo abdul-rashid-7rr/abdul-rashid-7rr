@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Rashid
 - 👀 I’m interested in lot of things
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on diff projects on Data science
 - 📫 How to reach me ...https://www.linkedin.com/in/abdul-rashid-7rr/
 
